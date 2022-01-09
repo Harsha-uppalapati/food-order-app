@@ -1,0 +1,124 @@
+{
+  "food": [
+    {
+      "name": "chicken noodles",
+      "image": "https://hips.hearstapps.com/ghk.h-cdn.co/assets/16/38/1474395998-ghk-0216-comfortfoodcover-meatballs.jpg?crop=0.856xw:0.571xh;0.0224xw,0.296xh&resize=640:*",
+      "price": "200",
+      "id": "1"
+    },
+    {
+      "name": "gobi",
+      "image": "https://media.self.com/photos/57d8952946d0cb351c8c50c9/1:1/w_855,h_855,c_limit/DELICIOUS-1-POT-Lentil-and-Black-Bean-Chili-Smoky-hearty-PROTEIN-and-fiber-packed-vegan-glutenfree-lentils-chili-healthy-recipe2.jpg",
+      "price": "350",
+      "id": "2"
+    },
+    {
+      "name": "french fries",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP7yN4sLAJKa-7LTBQMJUlZa0ClZYWp4mXDw&usqp=CAU",
+      "price": "300",
+      "id": "3"
+    },
+    {
+      "name": "porato",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqEF3RWOZatDlvqCrAXQ0dOiYfw_eA5AMa_A&usqp=CAU",
+      "price": "100",
+      "id": "4"
+    },
+    {
+      "name": "chapathi",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLVVFf3ItqnPPJyxkTC6HXPsgconFKVQP7gQ&usqp=CAU",
+      "price": "80",
+      "id": "5"
+    },
+    {
+      "name": "oani puri",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHn2Yr5Lss0KZvbNMARFW4FvlROPjpwt2hwQ&usqp=CAU",
+      "price": "120",
+      "id": "6"
+    },
+    {
+      "name": "jilebi",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb92EQqo4fwGx0B_EnRebSw_XBuwU8xugAjw&usqp=CAU",
+      "price": "55",
+      "id": "7"
+    },
+    {
+      "name": "polii",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1oqfZbtsIMBTjRIZr0NkGaH4jJBv4s4l_zA&usqp=CAU",
+      "price": "111",
+      "id": "8"
+    },
+    {
+      "name": "special chiken",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh2O-YmojFkUfZDsu38SiZE54tt6Bn0kTvUQ&usqp=CAU",
+      "price": "250",
+      "id": "9"
+    },
+    {
+      "name": "noodle",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmYptXIdXzlRS259D5UFgnS8uGilwU75IgJg&usqp=CAU",
+      "price": "110",
+      "id": "10"
+    },
+    {
+      "name": "egg rice",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCNy-Y71cWkJXl67EIlWZxo06eSkzv9PlX1Q&usqp=CAU",
+      "price": "55",
+      "id": "11"
+    },
+    {
+      "name": "full meals",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6_S8yCNMc4YHPVe9edQsoy2utrx_XMRW14w&usqp=CAU",
+      "price": "70",
+      "id": "12"
+    },
+    {
+      "name": "gobi",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCUPfKOWPQsFgIODjgQCOjwSlMxNklwrH3Q&usqp=CAU",
+      "price": "110",
+      "id": "13"
+    },
+    {
+      "name": "burger",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNeal5o1XAn4Pkc_mC7DVPadh10-MtjZQtxQ&usqp=CAU",
+      "price": "136",
+      "id": "14"
+    },
+    {
+      "name": "veg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBiHZj085d4M2h9T-q8D8cpBfAhoolV9q9mQ&usqp=CAU",
+      "price": "145",
+      "id": "15"
+    },
+    {
+      "name": "egg",
+      "image": "https://6d1bdf0e0edb084eae10-5bfabe5484726969ac662c6d377e2f3c.ssl.cf2.rackcdn.com/themes/img/north-indian-food3.jpg",
+      "price": "149",
+      "id": "16"
+    },
+    {
+      "name": "roti",
+      "image": "https://image.shutterstock.com/image-photo/group-indian-food-north-thali-260nw-253963819.jpg",
+      "price": "200",
+      "id": "17"
+    },
+    {
+      "name": "veg-meal",
+      "image": "https://restaurantindia.s3.ap-south-1.amazonaws.com/s3fs-public/content6079.jpg",
+      "price": "290",
+      "id": "18"
+    },
+    {
+      "name": "panner-currey",
+      "image": "https://media.gettyimages.com/photos/indian-food-picture-id626591752?s=612x612",
+      "price": "199",
+      "id": "19"
+    },
+    {
+      "name": "pano-puri",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201708/dish-story_647_081417052301.jpg?size=1200:675",
+      "price": "50",
+      "id": "20"
+    }
+  ]
+}
